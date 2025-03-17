@@ -1,110 +1,42 @@
-<!-- Greeting -->
-
-# Hey there! :wave::smiley:
-
-<!--Introduction -->
-I'm Joykishan! I'm a **Android Developer**:iphone:, looking to solve **real-world problems**:earth_asia:. I'm passionate about making **open-source** more accessible, creating software:computer: and tools to help people, and **building a community**. Do :star2: my repository if you find my project interesting, at least your star could make someone's day:pray:.
-<br>
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="40"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :blush:</em>
-
-<!-- Your badges -->
-[![Linkedin](https://img.shields.io/badge/-JoykishanSharma-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/JoykishanSharma)
-[![Telegram](https://img.shields.io/badge/-@joykishan_sharma-blue?style=flat&logo=Telegram&logoColor=white)](https://t.me/joykishan_sharma)
-[![HackerRank](https://img.shields.io/badge/-Joykishan-islamicgreen?style=flat&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/Joykishan)
-[![Medium](https://img.shields.io/badge/-@joykishan120-black?style=flat&logo=Medium&logoColor=white)](https://medium.com/@joykishan120)
-[![Instagram](https://img.shields.io/badge/-joykishan_sharma-c13584?style=flat&labelColor=c13584&logo=instagram&logoColor=white)](https://www.instagram.com/joykishan_sharma)
-[![Gmail](https://img.shields.io/badge/-joykishan120-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:joykishan120@gmail.com)
-
-<!-- Profile View Count -->
-![](https://komarev.com/ghpvc/?username=joykishansharma&style=flat)
-[![Google Playstore](https://img.shields.io/badge/-Joy_Apps_Developers_Team-gray?style=flat&logo=Google-Play&logoColor=white)](https://play.google.com/store/apps/developer?id=Joy+Apps+Developers+Team&hl=en_IN)
-
-<!-- Working GIF -->
-<img src="https://github.com/JoykishanSharma/JoykishanSharma/blob/master/dev_object.png" alt="dev_object" align="right" width="500" height="250" />
-
-### 💼  Things that I'm currently working on: 
-
-* Learning Front-End Web:computer: Development
-* Learning some vectors drawing:art: by using Adobe Illustrator.
-* Looking forward to take a Flutter:calling: course in future.
-* 🔜
-
-### 🌱 Challenges that I’m currently challenging myself:
-
-Since the world is in the quarantine stage:earth_asia:, and I’m having lots of spare time:watch:, I decided to take this time focusing on feeding more knowledge:books: to myself. I set a couple of self-challenges in order to push myself more further.:running: 
-
-* Learn to code:man_technologist: 3-4 hours a day with no distraction ( One or two day off a week. ) 
-* Read:newspaper: Dev and UI articles daily 
-* Workout:weight_lifting_man: 3 days in a row and take a day break 
-* Avoid spending too much time on Youtube Entertainment:skull_and_crossbones:
-* Adapting the minimalism life style
-* 🔜
-
- ### Languages and Tools: <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
-
-<p> <!-- GitHub README Stats -->
-  <a href="https://github.com/JoykishanSharma?tab=repositories">
-    <img width="500" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api?username=joykishansharma&show_icons=true&theme=algolia&count_private=true" />
-   <!-- <img width="30%" height="auto" align="right" alt="Joykishan's github stats" 
-         src="https://github-readme-stats.vercel.app/api/top-langs/?username=joykishansharma&layout=compact" />
-NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github. -->
-  </a>
- <!-- icons -->
-<code><a href = "https://www.java.com/en/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="Java"></a></code>
-<code><a href = "https://developer.android.com/studio"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/Android_Studio_icon.svg/512px-Android_Studio_icon.svg.png" alt="Android Studio"></a></code>
-<code><img height="40" src="https://image.flaticon.com/icons/svg/2306/2306209.svg" alt="XML"></code>
-<code><a href = "https://www.android.com/intl/en_in/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/android/android.png" alt="Android"></a></code>
-<br>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/Guide/HTML/HTML5"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Archive/CSS3"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></a></code>
-<code><a href = "https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></a></code>
-<code><a href = "https://code.visualstudio.com/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/1200px-Visual_Studio_Code_1.35_icon.svg.png"></a></code>
-<code><a href = "http://brackets.io/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Brackets_Icon.svg/1024px-Brackets_Icon.svg.png"></a></code>
-<br>
-<code><a href = "https://unity.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/unity/unity.png"></a></code>
-<code><a href = "https://docs.microsoft.com/en-us/dotnet/csharp/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png"></a></code>
-<code><a href = "https://www.jetbrains.com/rider/"><img height="40" src="https://resources.jetbrains.com/storage/products/rider/img/meta/rider_logo_300x300.png"></a></code>
-<br>
-<code><a href = "https://www.json.org/json-en.html"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/json/json.png"></a></code>
-<code><a href = "https://www.w3schools.com/sql/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png"></a></code>
-<code><a href = "https://firebase.google.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"></a></code>
-<br>
-<code><a href = "https://www.gnu.org/software/bash/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bash/bash.png"></a></code>
-<code><a href = "https://git-scm.com/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></a></code>
-<code><a href = "https://www.python.org/"><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></a></code>
-<code><a href = "https://www.jetbrains.com/pycharm/"><img height="40" src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png"></a></code>
-<code><img height="40" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="C Language"></code>
-<br>
-<code><a href = "https://inkscape.org/"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0d/Inkscape_Logo.svg/1024px-Inkscape_Logo.svg.png"></a></code>
-<code><a href = "https://www.adobe.com/in/products/illustrator.html"><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/616px-Adobe_Illustrator_CC_icon.svg.png"></a></code>
-
-
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=header&text=HI%20THERE!&fontSize=90&fontAlign=50&fontAlignY=30&desc=I%20am%20Xiaokang2022!&descAlign=50&descSize=30&descAlignY=60&animation=twinkling">
 </p>
-
-<h4 align="center"> Thanks for Visiting!:innocent:</h4>
-
-<!-- Credit -->
-
-### Credit to 
-
-- [**GIPHY**](https://giphy.com/) for GIFs. 
-
-
-
-<!--
-**JoykishanSharma/JoykishanSharma** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-  -->
-
-⭐️ From [JoykishanSharma](https://github.com/JoykishanSharma)
+ 
+<!-- https://github.com/DenverCoder1/readme-typing-svg -->
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=25&pause=1000&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+GitHub+profile+page!;I+am+super+obsessed+with+programming!" />
+</p>
+ 
+<p align="center">
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" width="400" src="https://github-readme-stats.vercel.app/api?username=Xiaokang2022&theme=transparent&include_all_commits=true&show_icons=true&hide_border=true" />
+<!-- https://github.com/DenverCoder1/github-readme-streak-stats -->
+<img align="center" width="400" src="https://streak-stats.demolab.com?user=Xiaokang2022&theme=transparent&date_format=%5BY.%5Dn.j&hide_border=true" />
+<br/>
+<!-- https://github.com/Ashutosh00710/github-readme-activity-graph -->
+<img width="800" src="https://github-readme-activity-graph.vercel.app/graph?username=Xiaokang2022&theme=github-compact&hide_border=true&area=true">
+<br/>
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=Xiaokang2022&theme=transparent&hide_border=true&layout=compact&langs_count=22" />
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xiaokang2022&theme=transparent&hide_border=true&layout=donut-vertical&langs_count=6" />
+<br/>
+<!-- https://github.com/tandpfun/skill-icons -->
+<img align="center" src="https://skillicons.dev/icons?i=py,c,cpp,cs,java,html,css,js,ts,md,matlab&theme=light" />
+</p>
+ 
+<!-- https://github.com/badges/shields -->
+<p align="center">
+<a href="https://github.com/Xiaokang2022"><img src="https://img.shields.io/badge/GitHub-Xiaokang2022-blue?logo=github" /></a>
+<a href="https://xiaokang2022.blog.csdn.net"><img src="https://img.shields.io/badge/CSDN-小康2022-red?logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAB+FBMVEUAAABqMy7wroeAUEvuso1vOTNwOzbxt5WKYFyniYm/qKLe3s1sNTBsNjGQVkhvODR6Rj7ip4XutZOCU07wtpXxupnst5eKXFmJXlrwu5qKbWryv6Hzx62gfXuwiYb44tNvODNWNSuKUUbwr4iKUkXwsImCVUZ3Qjt5UkN3QjvwsYtGLSfws454SERyPzp4RD/ws4/ws49xPzvvtI/xtJBPODJ7S0Z7SkXWnIFiTkbVnIGCU0/ps5TxvaDwvqGSaWWSaGiOaGSTb2uPamXzx7HxyrCjhHrwrYVqMi3wrITuq4RrMy63eF9jPS/Cg2fupoLqqIHopoDfn3rXlnXAfmSwcluNWkfioHzmkXrihXXccW2zdFypbFehZlKFWUVzSTlwSTh7QThuNS9VMyjto4HlpH7ionzjh3bXmXXOkG/Mi22tb1l/UUB9TT15TDxtRzZcNytZNypRMCVPLiTrnn/cnXnZm3fZmHbhgXTddG7IiGvMgGrPY2S2gGK+e2K1dl7CXV6uel28WlqocFika1WnalWdbFOaYk6dYE6SYUySVkaQVUaIVkSCV0OHVEOJTkF4UD2CRTxmQTJaLCZXKyVNKyJJJR9EIx0+IRrTknLffXLabWzZbGzFi2u5emGucFqicVeXaFCSXUp1STpdOy1hNyxdMilXMCfoEl0hAAAAR3RSTlMA/vqLn+7meVAWDgX59/X13LSGgoF7c2hdVlJQLSklEff18/Ly7+zs5ubi4djX1szHxMG5uLSjnZaJhn1pXldEPT05Ny4nGbaUVn8AAAIPSURBVDjLvdNFlxpBEMDxBgLsknX3jbu7e1I1wzC4OyzusO7u7nFPvmYGwr4HWZJc8vI71at/H/rQTf65g3/pReclTX/qj0rKL175fW4ViBCRd0HQWjC/uFGCWaU3i/f3hyLMIXq873alKJVma3oqL8rvTw7Ns+qeALOCuMIEetTsvPBpbpdUsBSk0SMjdGag2ApJzgEBC4qxJdtQJtJDNtuYAjSCvfpMfKeMUslkOp3MoQTwxNLTup4uuyVuSfcqPoTeUfbIicN2JqoDsEW1p9zh6CowIeDXEXIfaMNasHtr+fb1nWXG7fEmGXvT2e2ZlCq4ZqChmVwC46Ar+DYe2dndjAzHk6nEsGx7d+NTPNDvGvTBVXKGMo3ie3/K8n3jm0WT6PK7NTNbm1/Nya4QjvbBOXIZjOPoVK4vmq1mzdwSUKtzGq2VWYwpnTjug2vkAdADiFa12z45EZZ5AVRfwhOTnxPdVsQBit9MiJivkqJ0Vv0x5vig1FOU3jPtcEz7Z7mlil9LOC33TiOiUwEAL139rEvNDQontzpZ95z8VI2IC8BRar16rSI9LXCrarKnWIhogTwWRGHOo2jgoRnA4Ms0ymgA0CKvgeS4y5sC6DAZ5UB19PbJAaZ4ApKn/gjNnXj1xmR63ct1+lg9+UVbJXDknZ1y4FS2Ffgytcch62hN4f/T3lhzgFPV2E7+qx9xsqq+PsbsOwAAAABJRU5ErkJggg==" /></a>
+<a href="https://space.bilibili.com/498105668"><img src="https://img.shields.io/badge/哔哩哔哩-小康2022-pink?logo=bilibili" /></a>
+<img src="https://img.shields.io/badge/QQ-2951256653-green?logo=tencentqq" />
+<!-- https://github.com/antonkomarev/github-profile-views-counter -->
+<img src="https://komarev.com/ghpvc/?username=Xiaokang2022&abbreviated=true&color=yellow" />
+</p>
+ 
+<!-- https://github.com/kyechan99/capsule-render -->
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=300&&section=footer&text=THE%20END!&fontSize=90&fontAlign=50&fontAlignY=70&desc=Hope%20your%20program%20is%20bug-free!&descAlign=50&descSize=30&descAlignY=40&animation=twinkling">
+</p>
