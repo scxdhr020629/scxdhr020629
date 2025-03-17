@@ -16,10 +16,10 @@
 - 🚀 Vue.js enthusiast for building interactive user interfaces
 
 ## 📊 GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scxdhr020629&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=scxdhr020629&show_icons=true&theme=vue)
 
 ## 🔗 Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scxdhr020629&layout=compact&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=scxdhr020629&layout=compact&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
 
 ## 📫 How to Reach Me
 - GitHub: [scxdhr020629](https://github.com/scxdhr020629)
